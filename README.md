@@ -8,4 +8,4 @@ O projeto consiste em uma plataforma de avaliação de filmes, séries e mídia 
 * Caroline Rhaian da Silva Jandre
 
 ## Instruções de utilização
- Entre pelo Link: 
+ Entre pelo Link:  https://lilithfernandespat.github.io/MOCAT-Movie/

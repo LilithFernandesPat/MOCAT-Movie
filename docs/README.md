@@ -70,32 +70,6 @@ Carlos Pereira -- recomendar o site para os pais dos meus alunos -- A escola ten
 - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
 - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
 
-## Requisitos
-RF-01
-Os filmes devem ser listados na página do catálogo
-LILITH
-
-RF-02
-Os filmes devem ser filtrados pela barra de pesquisa.
-LILITH
-RN-01 LIlith: A tela principal deve mostrar pelo menos 10 filmes. E carregar mais filmes conforme se desce a página
-
-RF-03
-Botão de login 
-ARTHUR
-
-RF-04
-Botão de Registro
-ARTHUR
-
-RF-05
-O usuário pode mudar o nome do perfil
-ARTHUR ERICO
-
-RF-06
-O usuário pode acessar outras configurações na aba “configurações”
-ARTHUR ERICO
-
 ## User Flow
 
 Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapear todo fluxo de telas do site ou app. Essa técnica funciona para alinhar os caminhos e as possíveis ações que o usuário pode fazer junto com os membros de sua equipe.
@@ -117,12 +91,6 @@ Tela de Catálogo:
 
 
 ![Detalhe filme](https://github.com/ICEI-PUCMinas-PSG-SI-TI/icei-pucminas-psg-si-n-tiaw-2024-1-grupo-6-series-e-filmes/assets/126835261/e8815b29-1d62-4818-ba70-6cf51fcf959d)
-
-
-
-![Sobre nós](https://github.com/ICEI-PUCMinas-PSG-SI-TI/icei-pucminas-psg-si-n-tiaw-2024-1-grupo-6-series-e-filmes/assets/126835261/7a565a82-8499-4834-8375-c224a550a6eb)
-
-
 
 ![Perfil Usuario](https://github.com/ICEI-PUCMinas-PSG-SI-TI/icei-pucminas-psg-si-n-tiaw-2024-1-grupo-6-series-e-filmes/assets/126835261/a8605975-df1f-48b2-afff-88d8e6207661)
 
@@ -148,19 +116,6 @@ Gerenciamento do Projeto
         Discord
 https://discord.gg/NdUkf43fA9
 
-# Slides
-https://www.canva.com/design/DAGCbS-iKUQ/rGDSX2MCQxKOVH0IfuFLkA/edit
-
-A equipe está organizada da seguinte maneira:
-
-* Lilith Jan: Responsável pela tela principal.
-Construção da logo.
-* Arthur Faria Ottoni: Responsável pela tela de login e registro.
-Nome do projeto.
-* Arthur Erico: Responsável pela tela do usuário.
-Design da logo.
-* Vinícius: responsavel pela tela de comunidade
-* Luís: responsavel pela tela dos filmes
 
 # Referências
 https://www.figma.com

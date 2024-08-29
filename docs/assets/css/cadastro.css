@@ -129,7 +129,7 @@ button:hover {
 
 #msgError {
   text-align: center;
-  color: var(--icon1-cor);
+  color: var(--icon3-cor);
   background-color: var(--icon2-cor);
   padding: 10px;
   border-radius: 4px;
